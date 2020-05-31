@@ -1,0 +1,10 @@
+python3 format_data.py --input data/result1 --output res1.json
+python3 format_data.py --input data/result2 --output res2.json
+python3 format_data.py --input data/result3 --output res3.json
+python3 format_data.py --input data/result4 --output res4.json
+python3 format_data.py --input data/result5 --output res5.json
+python3 format_data.py --input data/result6 --output res6.json
+python3 format_data.py --input data/result7 --output res7.json
+python3 format_data.py --input data/result8 --output res8.json
+python3 format_data.py --input data/result9 --output res9.json
+python3 format_data.py --input data/result10 --output res10.json
